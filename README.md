@@ -2,7 +2,7 @@
 
 > Portfolio template using VueJs framework, CosmicJS API and Bootstrap
 
-<p align="center"><strong> Live demo with my personnal data <a href="https://hugobollon.me">here</a> ! </strong></p>
+<p align="center"><strong> Live demo with my personnal data <a href="http://mahdiahmad.com">here</a> ! </strong></p>
 
 ---
 
@@ -80,4 +80,4 @@ Give a ⭐️ if this project helped you!
 
 ## 📝 License
 
-This project is under [MIT](https://github.com/hbollon/portfolio-vuesjs/blob/master/LICENSE) license.
+This project is under [MIT](https://github.com/mhadiahmed/mahdi-portfolio/master/LICENSE) license.
