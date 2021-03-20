@@ -1,0 +1,378 @@
+{
+    "data": [
+        {
+            "_id": "5f011c5b90e9e00007825ea8",
+            "order": 5,
+            "slug": "achievement",
+            "title": "achievement",
+            "content": "",
+            "metdata": {
+                "items": [
+                    {
+                        "title": "YouTube Channel",
+                        "content": "I created this channel 5 years ago for teaching my Knowledge , mainly teaching python, Django Framework, Some PHP, and a full Flask Course Am sow proud of it , because sharing knowledge is something great <br><br>Link : <a href='https://www.youtube.com/c/mhadiahmed'>YouTube</a>",
+                        "link": "https://www.youtube.com/c/mhadiahmed",
+                        "image": "YouTube.png",
+                        "tag": "YouTube",
+                        "color": "green",
+                        "date": "2015-11-02"
+                    }
+                ],
+                "title": "My Achievements",
+                "description": "Things I'm proud of"
+            }
+        },
+        {
+            "_id": "5f011c5b90e9e00007825ea8",
+            "order": 5,
+            "slug": "experiences",
+            "title": "experiences",
+            "content": "",
+            "metdata": {
+                "description": "Professional and academic",
+                "title": "Experience",
+                "professional": [
+                    {
+                        "year": "10.2017 - 10.2018",
+                        "title": "Teaching assistant , Imam Al - Mahdi University",
+                        "content": "teaching programming language such as python, PHP, c++ , c, and Linux operating system, and network management , technical support "
+                    },
+                    {
+                        "year": "10.2019 - 12.2019",
+                        "title": "Backend Developer, Labeeb",
+                        "content": "building back-end for an appointment phone application using laravel framework, manage and deploy the API on the server  , Developed entire frontend and backend modules using php on laravel Web Framework. , Analyzed system requirements specifications and also in client interaction during requirements specifications"
+                    },
+                    {
+                        "year": "01.2020 - 12.2020",
+                        "title": "Backend Developer , Dot energy",
+                        "content": "working on development on big project you can call it data lake ,  Involved in software development life cycle (SDLC) of tracking the requirements, gathering, analysis, detailed design, development, system testing and user acceptance testing , deploy and configuration of the server ,  test and maintain the project "
+                    }
+                ],
+                "academic": [
+                    {
+                        "year": "2013 - 2017",
+                        "title": "Information technology",
+                        "content": "Bachelor of Information technology White Nile university"
+                    },
+                    {
+                        "year": "2015 - 2016",
+                        "title": "Python Programming",
+                        "content": "self learning python 3.* , 2.7 from scratch "
+                    },
+                    {
+                        "year": "09.2019 - 10.2019",
+                        "title": "Laravel 5.7 from scratch",
+                        "content": "self learning :  start learning Laravel from Laracast website"
+                    },
+                    {
+                        "year": "06.2020 - 09.2020",
+                        "title": "Nodejs, React",
+                        "content": "The complete Nodejs Course: it's a Nodejs course by Mosh Mohamdani"
+                    }
+                ]
+            },
+            "bucket": "5f00bd777c62a200080e8faf",
+            "type_slug": "portfolio-contents",
+            "created_at": "2020-07-05T00:18:35.583Z",
+            "created_by": "5f00bd137c62a200080e8fae",
+            "modified_at": "2020-07-05T17:32:57.155Z",
+            "created": "2020-07-05T00:18:35.583Z",
+            "user_id": "5f00bd137c62a200080e8fae",
+            "options": {
+                "content_editor": 1,
+                "slug_field": 1
+            },
+            "status": "published",
+            "published_at": "2020-07-05T17:32:57.155Z",
+            "modified_by": "5f00bd137c62a200080e8fae",
+            "publish_at": null,
+            "unpublish_at": null
+        },
+        {
+            "_id": "5f01fd8350006f00083229f5",
+            "order": 4,
+            "slug": "description",
+            "title": "description",
+            "content": "",
+            "metdata": {
+                "pres_first": "Creative backend developer with 6 years’ experience in Django and 2 in Nodejs with strong knowledge in Operating Systems & Terminal, testing software ",
+                "pres_second": "I always liked to get into projects using the skills that I did not have or were even spare pure programming like web development,  This allowed me to learn to be autonomous and to learn on my own, certainly not without difficulties far from it, but I always managed to overcome the obstacles and solve the problems I encountered !",
+                "pres_title": "Who am I ?",
+                "description": "Hope to know you after",
+                "title": "About Me"
+            },
+            "bucket": "5f00bd777c62a200080e8faf",
+            "type_slug": "portfolio-contents",
+            "created_at": "2020-07-05T16:19:15.848Z",
+            "created_by": "5f00bd137c62a200080e8fae",
+            "modified_at": "2020-11-06T14:31:39.945Z",
+            "created": "2020-07-05T16:19:15.848Z",
+            "user_id": "5f00bd137c62a200080e8fae",
+            "options": {
+                "content_editor": 1,
+                "slug_field": 1
+            },
+            "status": "published",
+            "published_at": "2020-11-06T14:31:39.945Z",
+            "modified_by": "5f00bd137c62a200080e8fae",
+            "publish_at": null,
+            "unpublish_at": null
+        },
+        {
+            "_id": "5f01fee250006f00083229f7",
+            "order": 3,
+            "slug": "user-data",
+            "title": "user-data",
+            "content": "",
+            "metdata": {
+                "name": "Mahdi Ahmed",
+                "email": "mhadiahmed63@gmail.com",
+                "phone": "0902439051",
+                "status": "Backend Developer",
+                "city": "Kosti, Sudan",
+                "lang": "English , Arabic",
+                "photo": "photo.jpg"
+            },
+            "bucket": "5f00bd777c62a200080e8faf",
+            "type_slug": "portfolio-contents",
+            "created_at": "2020-07-05T16:25:06.834Z",
+            "created_by": "5f00bd137c62a200080e8fae",
+            "modified_at": "2020-07-05T20:33:36.208Z",
+            "created": "2020-07-05T16:25:06.834Z",
+            "user_id": "5f00bd137c62a200080e8fae",
+            "options": {
+                "content_editor": 1,
+                "slug_field": 1
+            },
+            "status": "published",
+            "published_at": "2020-07-05T20:33:36.208Z",
+            "modified_by": "5f00bd137c62a200080e8fae",
+            "publish_at": null,
+            "unpublish_at": null
+        },
+        {
+            "_id": "5f0204d6ea1bf90007ad680f",
+            "order": 2,
+            "slug": "links",
+            "title": "links",
+            "content": "",
+            "metdata": {
+                "facebook": "https://web.facebook.com/brmag.sd/",
+                "instagram": "https://www.instagram.com/mhadi__ahmed/",
+                "linkedin": "https://www.linkedin.com/in/mhadi-ahmed-13661a127/",
+                "github": "https://github.com/mhadiahmed",
+                "youtube": "https://www.youtube.com/c/mhadiahmed"
+            },
+            "bucket": "5f00bd777c62a200080e8faf",
+            "type_slug": "portfolio-contents",
+            "created_at": "2020-07-05T16:50:30.087Z",
+            "created_by": "5f00bd137c62a200080e8fae",
+            "modified_at": "2020-11-06T14:30:59.357Z",
+            "created": "2020-07-05T16:50:30.087Z",
+            "user_id": "5f00bd137c62a200080e8fae",
+            "options": {
+                "content_editor": 1,
+                "slug_field": 1
+            },
+            "status": "published",
+            "published_at": "2020-11-06T14:30:59.357Z",
+            "modified_by": "5f00bd137c62a200080e8fae",
+            "publish_at": null,
+            "unpublish_at": null
+        },
+        {
+            "_id": "5f02127c1b1b930007b5896c",
+            "order": 1,
+            "slug": "skills",
+            "title": "skills",
+            "content": "",
+            "metdata": {
+                "items": [
+                    {
+                        "title": "Docker",
+                        "img": "docker.png"
+                    },
+                    {
+                        "title": "React",
+                        "img": "react.png"
+                    },
+                    {
+                        "title": "Python",
+                        "img": "python.png"
+                    },
+                    {
+                        "title": "Django",
+                        "img": "django.jpg"
+                    },
+                    {
+                        "title": "MySQL",
+                        "img": "mysql.png"
+                    },
+                    {
+                        "title": "HTML",
+                        "img": "html.png"
+                    },
+                    {
+                        "title": "CSS",
+                        "img": "css.png"
+                    },
+                    {
+                        "title": "PHP",
+                        "img": "php.png"
+                    },
+                    {
+                        "title": "Laravel",
+                        "img": "laravel.png"
+                    },
+                    {
+                        "title": "VueJS",
+                        "img": "vuejs.png"
+                    },
+                    {
+                        "title": "Heroku",
+                        "img": "heroku.png"
+                    },
+                    {
+                        "title": "Linux",
+                        "img": "linux.png"
+                    },
+                    {
+                        "title": "Git/Github",
+                        "img": "Octocat.png"
+                    },
+                    {
+                        "title": "Node JS",
+                        "img": "nodejs.png"
+                    },
+                    {
+                        "title": "JavaScript",
+                        "img": "js.png"
+                    },
+                    {
+                        "title": "GraphQL",
+                        "img": "graphql.png"
+                    }
+                ],
+                "title": "Skills",
+                "description": "Here is my armament"
+            },
+            "bucket": "5f00bd777c62a200080e8faf",
+            "type_slug": "portfolio-contents",
+            "created_at": "2020-07-05T17:48:44.602Z",
+            "created_by": "5f00bd137c62a200080e8fae",
+            "modified_at": "2020-11-06T13:55:46.187Z",
+            "created": "2020-07-05T17:48:44.602Z",
+            "user_id": "5f00bd137c62a200080e8fae",
+            "options": {
+                "content_editor": 1,
+                "slug_field": 1
+            },
+            "status": "published",
+            "published_at": "2020-11-06T13:55:46.187Z",
+            "modified_by": "5f00bd137c62a200080e8fae",
+            "publish_at": null,
+            "unpublish_at": null
+        },
+        {
+            "_id": "5f023635b7e93b000741a246",
+            "order": 0,
+            "slug": "projects",
+            "title": "projects",
+            "content": "",
+            "metdata": {
+                "items": [
+                    {
+                        "title": "Stick Note t",
+                        "content": "A stick note application build with React and load some json data to fill it out <br><br>Link : <a href='https://github.com/mhadiahmed/React-Note-Application'>github</a>",
+                        "link": "https://github.com/mhadiahmed/React-Note-Application",
+                        "image": "React.png",
+                        "tag": "Web Application",
+                        "color": "orange",
+                        "date": "2019-11-02"
+                    },
+                    {
+                        "title": "Weather Application",
+                        "content": "Weather app build with Ionic frameWork and of course it's a cross Platform <br><br>Link : <a href='https://github.com/mhadiahmed/weather-cross-platform-app'>github</a>",
+                        "link": "https://github.com/mhadiahmed/weather-cross-platform-app",
+                        "image": "",
+                        "tag": "Application",
+                        "color": "purple",
+                        "date": "2018-08-25"
+                    },
+                    {
+                        "title": "Dream Blog",
+                        "content": "Simplify blog build with love.<br><br>Link : <a href='https://github.com/mhadiahmed/dream-blog'>github</a>",
+                        "link": "https://github.com/mhadiahmed/dream-blog",
+                        "image": "dream.png",
+                        "tag": "website",
+                        "color": "orange",
+                        "date": "2020-07-28"
+                    },
+                    {
+                        "title": "webScanner",
+                        "content": "a simple script use to gather information about any website live it's run over and get you some useful data <br><br>Link : <a href='https://github.com/mhadiahmed/WebScanner'>github</a>",
+                        "link": "https://github.com/mhadiahmed/WebScanner",
+                        "image": "",
+                        "tag": "Script",
+                        "color": "green",
+                        "date": "2017-06-17"
+                    },
+                    {
+                        "title": "Keystroke Dynamic",
+                        "content": "a simple Keystroke Dynamic using jquery as front-end and django as back-end                        <br><br>Link : <a href='https://github.com/mhadiahmed/KeystrokeDynamic-with-django-'>github</a>",
+                        "link": "https://github.com/mhadiahmed/KeystrokeDynamic-with-django-",
+                        "image": "",
+                        "tag": "web app",
+                        "color": "orange",
+                        "date": "2018-05-19"
+                    },
+                    {
+                        "title": "django-esay-account",
+                        "content": "django-esay-account is a simple Django app for accounts handle login & SingUp & logout and User Profil tow <br><br>Link : <a href='https://github.com/mhadiahmed/accounts'>django-esay-account</a>",
+                        "link": "https://github.com/mhadiahmed/accounts",
+                        "image": "dj.png",
+                        "tag": "Library",
+                        "color": "blue",
+                        "date": "2017-05-08"
+                    },
+                    {
+                        "title": "E-Commerce",
+                        "content": "simple e-commerce build with django for learning purposes. <br><br>Link : <a href='http://mhadiahmed.pythonanywhere.com/'>Dj-ecommerce</a>",
+                        "link": "http://mhadiahmed.pythonanywhere.com/",
+                        "image": "ecomer.png",
+                        "tag": "Website",
+                        "color": "orange",
+                        "date": "2018-09-15"
+                    },
+                    {
+                        "title": "Simple Chat",
+                        "content": "a very simple chat application build with nodejs for learning purposes <br><br>Link : <a href='https://gentle-hamlet-09322.herokuapp.com/'>Chat Cord</a>",
+                        "link": "https://gentle-hamlet-09322.herokuapp.com/",
+                        "image": "ChatCord.png",
+                        "tag": "Website",
+                        "color": "orange",
+                        "date": "2020-09-15"
+                    }
+                ],
+                "title": "My projects",
+                "description": "This is my story"
+            },
+            "bucket": "5f00bd777c62a200080e8faf",
+            "type_slug": "portfolio-contents",
+            "created_at": "2020-07-05T20:21:09.882Z",
+            "created_by": "5f00bd137c62a200080e8fae",
+            "modified_at": "2020-11-09T10:16:41.986Z",
+            "created": "2020-07-05T20:21:09.882Z",
+            "user_id": "5f00bd137c62a200080e8fae",
+            "options": {
+                "content_editor": 1,
+                "slug_field": 1
+            },
+            "status": "published",
+            "published_at": "2020-11-09T10:16:41.986Z",
+            "modified_by": "5f00bd137c62a200080e8fae",
+            "publish_at": null,
+            "unpublish_at": null
+        }
+    ]
+}
